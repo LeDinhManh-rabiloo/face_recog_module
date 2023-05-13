@@ -1,0 +1,4 @@
+# Ignore everything in this directory
+# Except this file
+senet50_128.pth
+!.gitignore
